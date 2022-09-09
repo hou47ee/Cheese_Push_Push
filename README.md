@@ -7,3 +7,5 @@
 ## Choose Difficuly and Level <br>
 <img src="https://github.com/hou47ee/Cheese-Push-Push/blob/main/cheese_push/2.jpg" alt="Cover" width="50%"/> <br>
 --> `Click the` **`Bears`**<br>
+<img src="https://github.com/hou47ee/Cheese-Push-Push/blob/main/cheese_push/3.jpg" alt="Cover" width="50%"/> <br>
+--> `Click the` **`number of level`**<br>
