@@ -1,4 +1,4 @@
 # Cheese-Push-Push
-![avatar](D:\Desktop\研究所\推甄\作品集)
+![avatar](D:\Desktop\Graduate_School\recommendation\portfolios\cheese_push1.jpg)
 - A game similar to Sokoban, which I did for freshman course project. <br>
 - Done with `Java` and `Scene Builder`
