@@ -6,7 +6,7 @@
 
 ## Choose Difficuly and Level <br>
 <img src="https://github.com/hou47ee/Cheese-Push-Push/blob/main/cheese_push/2.jpg" alt="Cover" width="50%"/> <br>
---> `Click the` **`Bears`**<br>
+
 <img src="https://github.com/hou47ee/Cheese-Push-Push/blob/main/cheese_push/3.jpg" alt="Cover" width="50%"/> <br>
 
 > Easy: The maps are the easiest to be solved, and you will at least get 1 star even if you use a looooot of steps. <br>
