@@ -7,10 +7,12 @@
 ## Choose Difficuly and Level <br>
 <img src="https://github.com/hou47ee/Cheese-Push-Push/blob/main/cheese_push/2.jpg" alt="Cover" width="50%"/> <br>
 
-<img src="https://github.com/hou47ee/Cheese-Push-Push/blob/main/cheese_push/3.jpg" alt="Cover" width="50%"/> <br>
-
 > Easy: The maps are the easiest to be solved, and you will at least get 1 star even if you use a looooot of steps. <br>
 >
 > Gerneral: The maps are more difficult, and you will get zero star if you use more than a certain number of steps. <br>
 >
 > Hard: The maps are once more difficult, and there is a "Timer" added, if you can't solve it within the setting time, you lose. <br>
+> 
+<img src="https://github.com/hou47ee/Cheese-Push-Push/blob/main/cheese_push/3.jpg" alt="Cover" width="50%"/> <br>
+
+
