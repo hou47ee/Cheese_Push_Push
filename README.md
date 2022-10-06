@@ -1,18 +1,20 @@
 # Cheese-Push-Push
-> - A game similar to Sokoban, which I did for freshman course project. <br>
-> - Done with `Java` and `Scene Builder`<br>
+> - 類似推箱子的遊戲 <br>
+> - 使用滑鼠與鍵盤操作 <br>
+> - 實作語言: `Java` and `Scene Builder`<br>
+> - 大一計算機實習之課程專題
 ## Initial Scene <br>
-<img src="https://github.com/hou47ee/Cheese-Push-Push/blob/main/cheese_push/1.jpg" alt="Cover" width="50%"/> <br>
+<img src="https://github.com/hou47ee/Cheese-Push-Push/blob/main/cheese_push/初始畫面與遊戲介紹.jpg" alt="Cover" width="0%"/> <br>
 
 ## Choose Difficuly and Level <br>
 <img src="https://github.com/hou47ee/Cheese-Push-Push/blob/main/cheese_push/2.jpg" alt="Cover" width="50%"/> <br>
 
-> Easy: The maps are the easiest to be solved, and you will at least get 1 star even if you use a looooot of steps. <br>
+> Easy: 地圖最簡單，無論步數再多，只要完成最少可獲得一顆星。 <br>
 >
-> Gerneral: The maps are more difficult, and you will get zero star if you use more than a certain number of steps. <br>
+> Gerneral: 地圖較 Easy 進階一些。若步數超過設定值，可能零顆星。 <br>
 >
-> Hard: The maps are once more difficult, and there is a "Timer" added, if you can't solve it within the setting time, you lose. <br>
+> Hard: 地圖最難，且加上了時間限制，若無法在時間內破關即失敗。 <br>
 > 
-<img src="https://github.com/hou47ee/Cheese-Push-Push/blob/main/cheese_push/遊戲畫面.jpg" alt="Cover" width="80%"/> <br>
+<img src="https://github.com/hou47ee/Cheese-Push-Push/blob/main/cheese_push/遊戲畫面.jpg" alt="Cover" width="0%"/> <br>
 
 
