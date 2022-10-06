@@ -17,4 +17,8 @@
 > 
 <img src="https://github.com/hou47ee/Cheese-Push-Push/blob/main/cheese_push/遊戲畫面.jpg" alt="Cover" width="100%"/> <br>
 
+## Successful Scene <br>
+<img src="https://github.com/hou47ee/Cheese-Push-Push/blob/main/cheese_push/success.jpg" alt="Cover" width="50%"/> <br>
 
+## Fail Scene <br>
+<img src="https://github.com/hou47ee/Cheese-Push-Push/blob/main/cheese_push/fail.jpg" alt="Cover" width="50%"/> <br>
