@@ -4,7 +4,7 @@
 > - 實作語言: `Java` and `Scene Builder`<br>
 > - 大一計算機實習之課程專題
 ## Initial Scene <br>
-<img src="https://github.com/hou47ee/Cheese-Push-Push/blob/main/cheese_push/初始畫面與遊戲介紹.jpg" alt="Cover" width="0%"/> <br>
+<img src="https://github.com/hou47ee/Cheese-Push-Push/blob/main/cheese_push/初始畫面與遊戲介紹.jpg" alt="Cover" width="100%"/> <br>
 
 ## Choose Difficuly and Level <br>
 <img src="https://github.com/hou47ee/Cheese-Push-Push/blob/main/cheese_push/2.jpg" alt="Cover" width="50%"/> <br>
@@ -15,6 +15,6 @@
 >
 > Hard: 地圖最難，且加上了時間限制，若無法在時間內破關即失敗。 <br>
 > 
-<img src="https://github.com/hou47ee/Cheese-Push-Push/blob/main/cheese_push/遊戲畫面.jpg" alt="Cover" width="0%"/> <br>
+<img src="https://github.com/hou47ee/Cheese-Push-Push/blob/main/cheese_push/遊戲畫面.jpg" alt="Cover" width="100%"/> <br>
 
 
